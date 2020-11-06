@@ -9,6 +9,12 @@ You do make mistakes even if you try hard and creating fully populated boards is
 So we decided to create an modular system providing breakout boards for the frequently used features allowing to habe main boards without SMD components.
 These pcbs can be purchased at companies worldwide, we get them from JLCPCB.
 
+You will find four files of each project:
+XXX.sch : this is the schematics of the board
+XXX.
+XXX.lbr : this is the library you can chose to use this board as a device on your mainboard
+XXX.jpg : a picture how it looks like.
+
 So these are the files provided:
 
 <h2>can-breakout</h2>
