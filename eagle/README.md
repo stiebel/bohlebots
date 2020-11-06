@@ -5,7 +5,7 @@ educational version available for studenst for free. See the homepage of "eagle 
 We decided to use eagle an therefore our pcbs are in this format.
 
 Creating own pcbs for robotics is an issue at the beginning. 
-You do make mistakes even if you try hard creating fully populated boards is rather expensive. Especially if you have to do this several times.
+You do make mistakes even if you try hard and creating fully populated boards is rather expensive. Especially if you have to do this several times.
 So we decided to create an modular system providing breakout boards for the frequently used features allowing to habe main boards without SMD components.
 These pcbs can be purchased at companies worldwide, we get them from JLCPCB.
 
