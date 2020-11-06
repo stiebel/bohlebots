@@ -11,7 +11,7 @@ These pcbs can be purchased at companies worldwide, we get them from JLCPCB.
 
 You will find four files of each project:
 XXX.sch : this is the schematics of the board
-XXX.
+XXX.brd : this is the layout of the board
 XXX.lbr : this is the library you can chose to use this board as a device on your mainboard
 XXX.jpg : a picture how it looks like.
 
