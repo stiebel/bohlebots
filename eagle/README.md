@@ -8,13 +8,13 @@ Creating own pcbs for robotics is an issue at the beginning.
 You do make mistakes even if you try hard and creating fully populated boards is rather expensive. Especially if you have to do this several times.
 So we decided to create an modular system providing breakout boards for the frequently used features allowing to habe main boards without SMD components.
 These pcbs can be purchased at companies worldwide, we get them from JLCPCB.
-
-You will find four files of each project:
-XXX.sch : this is the schematics of the board
-XXX.brd : this is the layout of the board
-XXX.lbr : this is the library you can chose to use this board as a device on your mainboard
-XXX.jpg : a picture how it looks like.
-
+<br>
+You will find four files of each project:<br>
+XXX.sch : this is the schematics of the board<br>
+XXX.brd : this is the layout of the board<br>
+XXX.lbr : this is the library you can chose to use this board as a device on your mainboard<br>
+XXX.jpg : a picture how it looks like.<br>
+<br>
 So these are the files provided:
 
 <h2>can-breakout</h2>
